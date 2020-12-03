@@ -1,2 +1,3 @@
 # rnn_transliteration
-Trained a RNN model trained to transliterate english into russian.
+As a fun exercise, trained a RNN model on the nettalk corpus to transliterate english into russian.
+Achieves 93% accuracy.
